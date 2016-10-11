@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: papers.aux
+The style file: IEEEannot.bst
+A level-1 auxiliary file: bu.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ref.bib
+Database file #2: glaciology.bib
+Database file #3: da.bib
+Database file #4: lsm.bib
+-- IEEEtranS.bst version 1.11 (2003/04/02) by Michael Shell.
+-- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting version - not for use with work to be submitted to the IEEE.
+
+Done.
+You've used 18 entries,
+            4530 wiz_defined-function locations,
+            1004 strings with 12711 characters,
+and the built_in function-call counts, 13817 in all, are:
+= -- 1261
+> -- 325
+< -- 97
++ -- 167
+- -- 76
+* -- 687
+:= -- 2225
+add.period$ -- 37
+call.type$ -- 18
+change.case$ -- 89
+chr.to.int$ -- 207
+cite$ -- 18
+duplicate$ -- 895
+empty$ -- 1024
+format.name$ -- 86
+if$ -- 3054
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 141
+newline$ -- 92
+num.names$ -- 36
+pop$ -- 337
+preamble$ -- 1
+purify$ -- 74
+quote$ -- 2
+skip$ -- 1059
+stack$ -- 0
+substring$ -- 601
+swap$ -- 689
+text.length$ -- 28
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 144
+warning$ -- 0
+while$ -- 77
+width$ -- 20
+write$ -- 226

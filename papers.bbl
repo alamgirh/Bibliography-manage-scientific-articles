@@ -1,0 +1,153 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{adalsteinsson1999fast}
+D.~Adalsteinsson and J.~A. Sethian, ``The fast construction of extension
+  velocities in level set methods,'' \emph{Journal of Computational Physics},
+  vol. 148, no.~1, pp. 2--22, 1999.
+ \begin{quotation}\noindent adalsteinsson1999fast : In this paper extended
+  velocities are described outside the material.
+  \href{run:/home/alamgir/Alamgir.PhD/Reading/LSM/adalsteinsson1999fast_extended_velocities.pdf}{PDF}
+  \end{quotation}
+
+\bibitem{bonan2015moving}
+B.~Bonan, M.~Baines, N.~Nichols, and D.~Partridge, ``A moving point approach to
+  model shallow ice sheets: a study case with radially-symmetrical ice
+  sheets,'' \emph{The Cryosphere Discussions}, vol.~9, pp. 4237--4270, 2015.
+ \begin{quotation}\noindent bonan2015moving : In this paper authors introduced
+  moving-point approach for the flow of ice sheets based on the conservation of
+  local masses.
+  \href{run:/home/alamgir/Alamgir.PhD/Reading/moving-point/moving-point
+  approach-SIA.pdf}{PDF} \end{quotation}
+
+\bibitem{bondzio2016modelling}
+J.~H. Bondzio, H.~Seroussi, M.~Morlighem, T.~Kleiner, M.~R{\"u}ckamp,
+  A.~Humbert, and E.~Y. Larour, ``Modelling calving front dynamics using a
+  level-set method: application to jakobshavn isbr{\ae}, west greenland,''
+  \emph{The Cryosphere}, vol.~10, no.~2, pp. 497--510, 2016.
+
+
+\bibitem{buelernumerical}
+E.~Bueler, ``Numerical modelling of ice sheets, streams, and shelves,''
+  \emph{Karthaus Summer School}, 2014.
+
+
+\bibitem{bueler2005exact}
+E.~Bueler, C.~S. Lingle, J.~A. Kallen-Brown, D.~N. Covey, and L.~N. Bowman,
+  ``Exact solutions and verification of numerical models for isothermal ice
+  sheets,'' \emph{Journal of Glaciology}, vol.~51, no. 173, pp. 291--306, 2005.
+
+
+\bibitem{burden2010numerical}
+R.~L. Burden and J.~D. Faires, \emph{Numerical analysis}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Brooks/Cole, USA, 2010.
+
+
+\bibitem{huybrechts1996eismint}
+P.~Huybrechts and T.~Payne, ``The eismint benchmarks for testing ice-sheet
+  models,'' \emph{Annals of Glaciology}, vol.~23, no.~1, pp. 1--12, 1996.
+ \begin{quotation}\noindent huybrechts1996eismint : EISMINT - ice sheet model
+  \href{run:/home/alamgir/Alamgir.PhD/Reading/Glaciology/huybrechts1996eismint.pdf}{PDF}
+  \end{quotation}
+
+\bibitem{mitchell2004demonstrating}
+I.~Mitchell, ``Demonstrating numerical convergence to the analytic solution of
+  some backwards reachable sets with sharp features,'' \emph{Dept. Comput.
+  Sci., Univ. British Columbia, Vancouver, BC, Canada, Tech. Rep. TR-2004-01},
+  2004.
+ \begin{quotation}\noindent This is a paper where Level set toolbox methods are
+  describes. The numerical methods described in the ToolBox are are available
+  here.
+  \href{run:/home/alamgir/Alamgir.PhD/Reading/LevelSetMethods/IanMitchell/converge.pdf}{PDF}
+  \end{quotation}
+
+\bibitem{nichols2003data}
+N.~Nichols, ``Data assimilation: Aims and basic concepts,'' in \emph{Data
+  Assimilation for the Earth System}.\hskip 1em plus 0.5em minus 0.4em\relax
+  Springer, 2003, pp. 9--20.
+
+
+\bibitem{osher2006level}
+S.~Osher and R.~Fedkiw, \emph{Level set methods and dynamic implicit
+  surfaces}.\hskip 1em plus 0.5em minus 0.4em\relax Springer Science \&
+  Business Media, 2006, vol. 153.
+
+
+\bibitem{osher1988fronts}
+S.~Osher and J.~A. Sethian, ``Fronts propagating with curvature-dependent
+  speed: algorithms based on hamilton-jacobi formulations,'' \emph{Journal of
+  computational physics}, vol.~79, no.~1, pp. 12--49, 1988.
+ \begin{quotation}\noindent osher1988fronts : Level set method
+  \href{run:/home/alamgir/Alamgir.PhD/Reading/LSM/osher1988fronts.pdf}{PDF}
+  \end{quotation}
+
+\bibitem{partridge2013numerical}
+D.~Partridge, ``Numerical modelling of glaciers: moving meshes and data
+  assimilation,'' Ph.D. dissertation, University of Reading, 2013.
+ \begin{quotation}\noindent partridge2013numerical : Moving mesh and data
+  assimilation
+  \href{run:/home/alamgir/Alamgir.PhD/Reading/Glaciology+DA/Partridge_PhD_2013.pdf}{PDF}
+  \end{quotation}
+
+\bibitem{pralong2004level}
+A.~Pralong and M.~Funk, ``A level-set method for modeling the evolution of
+  glacier geometry,'' \emph{Journal of Glaciology}, vol.~50, no. 171, pp.
+  485--491, 2004.
+ \begin{quotation}\noindent pralong2004level : In this paper authors introduced
+  level set method for glacier dynamics.
+  \href{run:/home/alamgir/Alamgir.PhD/Reading/Glaciology+LSM/pralong2004level.pdf}{PDF}
+  \end{quotation}
+
+\bibitem{schoof2002mathematical}
+C.~Schoof, ``Mathematical models of glacier sliding and drumlin formation,''
+  Ph.D. dissertation, University of Oxford, 2002.
+
+
+\bibitem{schoof2007marine}
+------, ``Marine ice-sheet dynamics. part 1. the case of rapid sliding,''
+  \emph{Journal of Fluid Mechanics}, vol. 573, pp. 27--55, 2007.
+
+
+\bibitem{schoof2010thin}
+C.~Schoof and R.~C. Hindmarsh, ``Thin-film flows with wall slip: an asymptotic
+  analysis of higher order glacier flow models,'' \emph{The Quarterly Journal
+  of Mechanics and Applied Mathematics}, p. hbp025, 2010.
+
+
+\bibitem{sethian1996theory}
+J.~A. Sethian, ``Theory, algorithms, and applications of level set methods for
+  propagating interfaces,'' \emph{Acta numerica}, vol.~5, pp. 309--395, 1996.
+ \begin{quotation}\noindent sethian1996theory : Level set method; Here Sethian
+  described about four advantages of Level Set Method. (see section 3.2)
+  \href{run:/home/alamgir/Alamgir.PhD/Reading/LSM/sethian1996theory.pdf}{PDF}
+  \end{quotation}
+
+\bibitem{sethian1999level}
+------, \emph{Level set methods and fast marching methods: evolving interfaces
+  in computational geometry, fluid mechanics, computer vision, and materials
+  science}.\hskip 1em plus 0.5em minus 0.4em\relax Cambridge university press,
+  1999, vol.~3.
+ \begin{quotation}\noindent sethian1999level : This is a test book of LSM and
+  fast marching method. In section 1.3 Sethian described about the advantage of
+  both initial value formulation and boundary value formulation.
+  \href{run:/home/alamgir/Alamgir.PhD/Reading/LSM/sethian1999level.pdf}{PDF}
+  \end{quotation}
+
+\end{thebibliography}

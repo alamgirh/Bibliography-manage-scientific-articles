@@ -1,0 +1,31 @@
+%% This is annot.tex.
+%% 
+%% You'll need to change the title and author fields to reflect your
+%% information.
+%%
+%% Author: Titus Barik (titus@barik.net)
+%% Homepage: http://www.barik.net/sw/ieee/
+%% Reference: http://www.ctan.org/tex-archive/info/simplified-latex/
+
+\documentclass [11pt]{article}
+\usepackage[letterpaper, margin=0.5in]{geometry}
+
+\usepackage{hyperref}           % Enable embedded hyperlinks.
+\hypersetup{
+	colorlinks=true, %set true if you want colored links
+	linktoc=all,     %set to all if you want both sections and subsections linked
+	linkcolor=blue,  %choose some color if you want links to stand out
+	citecolor  = magenta,
+}
+\usepackage{bibunits}
+\title{List of Papers}
+\author{Alamgir Hossain (mahossai@sfu.ca)\\Simon Fraser University}
+
+\begin{document}
+%\maketitle
+
+\nocite{*}
+\bibliographystyle{IEEEannot}
+%\bibliography{ref}
+\bibliography{ref,glaciology,da,lsm}{References to books}
+\end{document}
